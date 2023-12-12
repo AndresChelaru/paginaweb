@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+      <rss version="2.0">
+      <channel>
+        <!--Prólogo-->
+        <title>Inicio</title>
+        <link>https://andreschelaru.github.io/paginaweb/index.html</link>
+        <description> Información general del portfolio. </description>
+        <category>información personal/estudios/informatica</category>
+        <copyright>1º ASIR - LMSGI</copyright>
+        <language>es-es</language>
+        <lastBuildDate>Sun, 10 Dec 2023 12:15:00 +0100</lastBuildDate>
+        <webMaster>andresmanuelchelaru@gmail.com</webMaster>
+        <!-- Asignaturas-->
+        <item>
+            <title>Lenguaje de Marcas</title>
+            <description>
+                En este artículo encontrará información lenguajes de marcas.
+            </description>
+            <link>
+                https://andreschelaru.github.io/paginaweb/paginas/Lenguaje%20de%20Marcas.html
+            </link>
+            <author>chelma_aliesma2324@iesmedinaazahara.es</author>
+            <category>lenguaje de marcas</category>
+            <pubDate>Sun, 10 Dec 2023 12:25:00 +0100</pubDate>
+        </item>
+        <item>
+            <title>Base de datos</title>
+            <description>
+               En este artículo encontrará información sobre las bases de datos.
+            </description>
+            <link>
+               https://andreschelaru.github.io/paginaweb/paginas/Gesti%C3%B3n%20de%20base%20de%20datos.html
+            </link>
+            <author>chelma_aliesma2324@iesmedinaazahara.es</author>
+            <category>base de datos</category>
+            <pubDate>Sun, 10 Dec 2023 12:25:00 +0100</pubDate>
+          </item>
+      </channel>
+</rss>
