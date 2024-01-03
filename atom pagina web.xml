@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="es" xml:base="https://andreschelaru.github.io/paginaweb/">
+  <id>https://andreschelaru.github.io/paginaweb/</id>
+  <title>Proyectos ASIR</title>
+  <updated>2024-01-02T00:00:00+01:00</updated>
+  <link rel="alternate" href="https://andreschelaru.github.io/paginaweb/atom.xml"/>
+  <author>
+    <name>Andres Manuel Chelaru</name>
+    <email>chelma_aliesma2324@iesmedinaazahara.es</email>
+  </author>
+  <category term="Proyectos"/>
+  <contributor>
+    <name>otro Autor</name>
+    <email>otro@gmail.com</email>
+    <uri>https://www.linkedin.com/in/otro</uri>
+  </contributor>
+  <logo>viajes.jpg</logo>
+  <entry>
+    <id>https://andreschelaru.github.io/paginaweb/index.html</id>
+    <title>Inicio</title>
+    <updated>2024-01-02T00:00:00+01:00</updated>
+    <author>
+      <name>Andres Manuel Chelaru</name>
+      <email>chelma_aliesma2324@iesmedinaazahara.es</email>
+    </author>
+    <summary>En esta pagina encontraras informacion general acerca de la pagina web</summary>
+    <link rel="alternate" href="https://andreschelaru.github.io/paginaweb/index.html"/>
+  </entry>
+  <entry>
+    <id>https://andreschelaru.github.io/paginaweb/paginas/Lenguaje%20de%20Marcas.html</id>
+    <title>Lenguaje de Marcas</title>
+    <updated>2024-01-02T00:00:00+01:00</updated>
+    <author>
+      <name>Andres Manuel Chelaru</name>
+      <email>chelma_aliesma2324@iesmedinaazahara.es</email>
+    </author>
+    <summary>En esta pagina encontraras informacion sobre los Lenguajes de Marcas y acerca de los proyectos realizados sobre ellos.</summary>
+    <link rel="alternate" href="https://andreschelaru.github.io/paginaweb/paginas/Lenguaje%20de%20Marcas.html"/>
+  </entry>
+  <entry>
+    <id>https://andreschelaru.github.io/paginaweb/paginas/Gesti%C3%B3n%20de%20base%20de%20datos.html</id>
+    <title>Bases de datos</title>
+    <updated>2024-01-02T00:00:00+01:00</updated>
+    <author>
+      <name>Andres Manuel Chelaru</name>
+      <email>chelma_aliesma2324@iesmedinaazahara.es</email>
+    </author>
+    <summary>En esta pagina encontraras informacion sobre las Bases de Datos y también información acerca de los proyectos realizados sobre estas.</summary>
+    <link rel="alternate" href="https://andreschelaru.github.io/paginaweb/paginas/Gesti%C3%B3n%20de%20base%20de%20datos.html"/>
+  </entry>
+</feed>
